@@ -4,4 +4,4 @@ CryptoCreditCard Software is an ethereum wallet app, wich easily permits ETH tra
 
 Software type : donation ware
 
-/!\ PROJECT CANCELED /!\
+/!\ PROJECT IN UPGRADE PHASE, DON'T DOWNLOAD NOW /!\
